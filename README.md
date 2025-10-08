@@ -30,7 +30,13 @@
 
 Запишите в Redis несколько ключей с любыми именами и значениями.
 
-Решение 4.
+Решение 4. Redis будем ставить через Docker, перед эти вначале установим сам Docker.
+
+<img width="1491" height="996" alt="image" src="https://github.com/user-attachments/assets/1e2c3ef3-faae-465f-a71c-e75732a5797e" />
+
+
+<img width="894" height="368" alt="image" src="https://github.com/user-attachments/assets/b79a3c4a-2115-4d9a-a053-6d721427b91d" />
+
 
 
 
